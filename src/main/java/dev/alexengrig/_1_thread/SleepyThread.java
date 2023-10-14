@@ -1,4 +1,4 @@
-package dev.alexengrig.thread;
+package dev.alexengrig._1_thread;
 
 import java.util.random.RandomGenerator;
 

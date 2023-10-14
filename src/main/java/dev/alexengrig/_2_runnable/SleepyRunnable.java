@@ -1,4 +1,4 @@
-package dev.alexengrig.runnable;
+package dev.alexengrig._2_runnable;
 
 import java.util.random.RandomGenerator;
 

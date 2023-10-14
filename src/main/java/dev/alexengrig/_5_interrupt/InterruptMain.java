@@ -1,4 +1,4 @@
-package dev.alexengrig.interrupt;
+package dev.alexengrig._5_interrupt;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

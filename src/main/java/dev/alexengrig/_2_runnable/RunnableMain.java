@@ -1,4 +1,4 @@
-package dev.alexengrig.runnable;
+package dev.alexengrig._2_runnable;
 
 public class RunnableMain {
     static final int N = 10;

@@ -1,4 +1,4 @@
-package dev.alexengrig.executor;
+package dev.alexengrig._3_executor;
 
 import java.util.concurrent.Executor;
 
